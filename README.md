@@ -1,7 +1,6 @@
 # CathayTest
 ########## Request and response body log of all API ##########
-# CathayTest
-########## Request and response body log of all API ##########
+
 1. API gets exchange rates
 Method: GET
 Request: http://localhost:8080/api/exchange?base=EUR&start_date=2025-10-27&end_date=2025-10-29
